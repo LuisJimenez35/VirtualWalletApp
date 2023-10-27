@@ -1,0 +1,127 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(https://image.winudf.com/v2/image1/Y29tLm1vdmluZy53YWxscGFwZXJzLmdyZWVuLmxpdmUud2FsbHBhcGVyX3NjcmVlbl8xMl8xNTU3NzQ3Njg2XzA5MA/screen-12.jpg?fakeurl=1&type=.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    
+    text-align: center;
+    
+    font-size: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:aliceblue;
+    
+}
+
+.highlight-badge {
+    background-color: #ffc107; /* Color amarillo de Bootstrap */
+    color: #fff; /* Texto blanco */
+    font-weight: bold; /* Texto en negrita */
+    /* Agrega más estilos según tus preferencias */
+}
+
+</style >
+
+
+
+#flexSwitchCheckChecked[disabled] {
+    background-color: gray;
+}
+
+
+
+.container1 {
+   border:3px solid #000;
+    border-radius: 10px;
+    width: 100%;
+    height: 110%;
+    color: #000;
+}
+
+
+
+
+
+
+.imgcard{
+    width: 30%;
+    height: 100%;
+}
+
+.title_card{
+    font-size: 1.5rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+header {
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    align-items: center;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+header h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    line-height: 60px;
+    display: inline-block;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+header a {
+    color: #333;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header a:hover {
+    color: #000;
+}
+
+header button{
+    top:50px;
+}
+
+footer {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    font-weight:bold;
+
+}
